@@ -7,7 +7,7 @@ Arduino bluetooth TNC Modem
 Introduction
 ------------
 Arduino bluetooth TNC modem is based on customized version of LibAPRS, allows 
-simulteneously work using both bluetooth and USB-serial port. Uses next
+simultaneously work using both bluetooth and USB-serial port. Uses next
 peripherals:
 
  * Bluetooth serial adapter
