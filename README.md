@@ -16,4 +16,4 @@ peripherals:
 Requirements
 ------------
 
- * Customized LibAPRS - https://github.com/sh123/LibAPRS
+ * Customized LibAPRS (aprs_tracker branch) - https://github.com/sh123/LibAPRS/tree/aprs_tracker
