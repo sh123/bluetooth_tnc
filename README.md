@@ -16,4 +16,4 @@ peripherals:
 Requirements
 ------------
 
- * Customized LibAPRS (aprs_tracker branch) - https://github.com/sh123/LibAPRS/tree/aprs_tracker
+ * Customized LibAPRS (aprs_tracker branch, see device.h for arduino ports usage) - https://github.com/sh123/LibAPRS/tree/aprs_tracker
